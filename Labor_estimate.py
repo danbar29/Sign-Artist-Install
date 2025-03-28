@@ -8,8 +8,6 @@ from tkinter.simpledialog import askfloat
 
 # could try streamlit for simplicity
 
-
-
 top = tkinter.Tk()
 # # determine size of window
 # top.geometry('400x400')
